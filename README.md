@@ -1,96 +1,139 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-</head>
+<div align="center">
 
-<body>
+# 👋 Hello, I'm Madhura Sithumina
 
-<!-- PROFILE VIEWS -->
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=madhurasithumina&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+### Intern Software Engineer | Full Stack Developer | Tech Enthusiast
 
-<!-- INTRO -->
-<h1 align="center">Hi 👋, I'm Madhura Sithumina</h1>
-<h3 align="center">Intern Software Engineer</h3>
+<img src="https://readme-typing-svg.demolab.com? font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Building+scalable+web+applications;Passionate+about+clean+code;Learning+and+growing+every+day" alt="Typing SVG" />
 
-<!-- RIGHT SIDE GIF -->
-<img align="right" height="300" width="400"
-     src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"
-     alt="coding gif"/>
+[![Profile Views](https://komarev.com/ghpvc/?username=madhurasithumina&label=Profile%20Views&color=3b82f6&style=for-the-badge)](https://github.com/madhurasithumina)
 
-<!-- ABOUT ME -->
-<h3>👨‍💻 About Me</h3>
+</div>
 
-<ul>
-  <li>🏢 Currently working as an <strong>Intern Software Engineer</strong></li>
-  <li>🔭 Working with <strong>.NET 8 Core API</strong> & <strong>Angular 19</strong></li>
-  <li>🌱 Learning <strong>MERN Stack Development</strong></li>
-  <li>📫 Reach me at:
-    <a href="mailto:madhurasithumina004@gmail.com">
-      madhurasithumina004@gmail.com
-    </a>
-  </li>
-  <li>🌐 GitHub:
-    <a href="https://github.com/madhurasithumina" target="_blank">
-      github.com/madhurasithumina
-    </a>
-  </li>
-</ul>
+---
 
-<br/>
+## 🚀 About Me
 
-<!-- SOCIAL LINKS -->
-<h3 align="left">🤝 Connect with me:</h3>
-<p align="left">
+```yaml
+name: Madhura Sithumina
+role: Intern Software Engineer
+location: Sri Lanka
+currently_working_on: 
+  - . NET 8 Core API Development
+  - Angular 19 Frontend Applications
+currently_learning:
+  - MERN Stack Development
+  - Cloud Technologies
+  - System Design Patterns
+interests:
+  - Full Stack Development
+  - Open Source Contribution
+  - Problem Solving
+```
 
-<a href="https://github.com/madhurasithumina" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg"
-       alt="GitHub"
-       height="30" width="40"/>
-</a>
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-<a href="https://www.linkedin.com/in/madhura-sithumina-5667b2298" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-       alt="LinkedIn"
-       height="30" width="40"/>
-</a>
+### 💼 What I'm Up To
 
-<a href="https://www.facebook.com/share/1DMyn3bhdS/?mibextid=wwXIfr" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-       alt="Facebook"
-       height="30" width="40"/>
-</a>
+- 🔨 Building modern web applications with **. NET Core** and **Angular**
+- 📚 Mastering the **MERN Stack** (MongoDB, Express, React, Node. js)
+- 🌱 Exploring **Cloud Computing** and **DevOps** practices
+- 💡 Contributing to **open-source** projects
+- 🎯 Improving **system design** and **architecture** skills
 
-<a href="https://www.instagram.com/m4dhu_19" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-       alt="Instagram"
-       height="30" width="40"/>
-</a>
+<br clear="right"/>
 
-</p>
+---
 
-<br/>
+## 🛠️ Tech Stack
 
-<!-- LANGUAGES & TOOLS -->
-<h3 align="left">🛠 Languages and Tools:</h3>
-<p align="left">
+### 💻 Languages
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="40"/>
+### 🎨 Frontend
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-</p>
+### ⚙️ Backend
+![. NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
-</body>
-</html>
+### 🗄️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
+### 🛠️ Tools & Others
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=madhurasithumina&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/? username=madhurasithumina&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/? user=madhurasithumina&theme=tokyonight" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=madhurasithumina&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/? username=madhurasithumina&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madhura-sithumina-5667b2298)
+[![GitHub](https://img.shields.io/badge/GitHub-181717? style=for-the-badge&logo=github&logoColor=white)](https://github.com/madhurasithumina)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1DMyn3bhdS/?mibextid=wwXIfr)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/m4dhu_19)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:madhurasithumina004@gmail.com)
+
+</div>
+
+---
+
+## 💭 Quote of the Day
+
+<div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 "Code is like humor. When you have to explain it, it's bad." – Cory House
+
+**Thanks for stopping by! Let's build something amazing together!  🚀**
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+
+</div>
