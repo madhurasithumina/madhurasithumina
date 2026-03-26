@@ -2,7 +2,7 @@
 
 # 👋 Hello, I'm Madhura Sithumina
 
-### Intern Software Engineer | Full Stack Developer | Tech Enthusiast
+### Associate Software Engineer | Full Stack Developer | Tech Enthusiast
 
 <img src="https://readme-typing-svg.demolab. com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Building+scalable+web+applications;Passionate+about+clean+code;Learning+and+growing+every+day" alt="Typing SVG" />
 
