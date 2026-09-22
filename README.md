@@ -1,14 +1,15 @@
-<h1 align="center">Hi there, I'm Madhura Sithumina 👋</h1>
-<h3 align="center">Full Stack Developer · Associate Software Engineer · Builder of Things That Ship</h3>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%92%BB;.NET+Core+%2B+Angular+Enthusiast;Currently+Exploring+MERN+%26+Cloud+%E2%98%81%EF%B8%8F;Clean+Architecture+%7C+DevOps+%7C+System+Design" alt="Typing SVG" />
+  <img src="./assets/banner.svg" alt="Madhura Sithumina — Full Stack Developer" width="100%" />
 </p>
+
+<h3 align="center">Full Stack Developer · Associate Software Engineer · Builder of Things That Ship</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/madhura-sithumina-5667b2298"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:madhurasithumina004@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/madhurasithumina"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.facebook.com/share/1Btt2WhkLH/?mibextid=wwXIfr"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://www.instagram.com/m4dhu_19?stkn=Y283djZna3ZqeHZw&utm_source=qr"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
 ---
@@ -97,7 +98,9 @@ I'm a Full Stack Developer based in Sri Lanka, working at the intersection of so
 <p align="center">
   <a href="https://www.linkedin.com/in/madhura-sithumina-5667b2298">LinkedIn</a> •
   <a href="https://github.com/madhurasithumina">GitHub</a> •
-  <a href="mailto:madhurasithumina004@gmail.com">Email</a>
+  <a href="mailto:madhurasithumina004@gmail.com">Email</a> •
+  <a href="https://www.facebook.com/share/1Btt2WhkLH/?mibextid=wwXIfr">Facebook</a> •
+  <a href="https://www.instagram.com/m4dhu_19?stkn=Y283djZna3ZqeHZw&utm_source=qr">Instagram</a>
 </p>
 
 <p align="center">
