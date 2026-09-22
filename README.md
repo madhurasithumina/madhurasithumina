@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./assets/banner.svg" alt="Madhura Sithumina — Full Stack Developer" width="100%" />
-</p>
-
 <h1 align="center">Hi, I'm Madhura 👋</h1>
 <h3 align="center">Full Stack Developer · Enterprise Systems Builder · .NET & Angular Craftsman</h3>
 
